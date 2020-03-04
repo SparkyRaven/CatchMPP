@@ -1,0 +1,20 @@
+img {
+    width:900px;
+}
+body {
+    background-color:black;
+}
+p {
+    color: whitesmoke;
+    font-size:35px;
+}
+.button {
+    height:72px;
+    width:240px;
+}
+
+a {
+    background-color:white;
+    color:black;
+    font-size:30px;
+}
